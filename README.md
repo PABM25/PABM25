@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **3D printing for tech and design solutions**
 
-- 📫 How to reach me **becode.dev**
+- 📫 How to reach me **bemaker.cl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
