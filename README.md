@@ -59,7 +59,7 @@
   <br>
 
   <h3>💻 Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mysql,firebase,gcp,linux,git,arduino,figma,ps,selenium,nodejs,ionic&perline=9" />
+  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mysql,firebase,gcp,git,arduino,figma,nodejs,flutter,dart&perline=9" />
   
   <br><br>
   <p style="font-size:10px; color: #666;"><i>Engineering Code & Strategies</i></p>
