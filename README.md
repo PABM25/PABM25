@@ -69,7 +69,7 @@
 
   <img src="https://img.shields.io/badge/Frontend-Development-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,ionic,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,flutter,ionic" />
   <br><br>
 
   <img src="https://img.shields.io/badge/Backend-Architecture-3776AB?style=flat-square&logo=python&logoColor=white" />
