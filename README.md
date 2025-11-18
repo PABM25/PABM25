@@ -18,16 +18,24 @@
 
   <br>
 
+  <h3>🌱 Currently growing in</h3>
+  <p>Modern Web & Mobile Development • Arduino Integration • 3D Printing</p>
+
+  <p>
+   🔭 Working on <b>Administrative software for construction businesses</b><br>
+   🎨 Learning <b>3D printing for tech and design solutions</b>
+  </p>
+
+  <br>
+
   <h3>🚀 Project Management & Methodologies</h3>
-  <p>Liderando proyectos tecnológicos con visión estratégica y agilidad.</p>
+  <p>Combining technical skills with agile strategies for efficient solutions.</p>
   
   <p>
     <img src="https://img.shields.io/badge/Methodology-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white" />
     <img src="https://img.shields.io/badge/Methodology-AGILE-green?style=flat-square&logo=jirasoftware&logoColor=white" />
-    <img src="https://img.shields.io/badge/Planning-KANBAN-blueviolet?style=flat-square&logo=trello&logoColor=white" />
     <img src="https://img.shields.io/badge/Tools-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white" />
     <img src="https://img.shields.io/badge/Tools-NOTION-000000?style=flat-square&logo=notion&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tools-SLACK-4A154B?style=flat-square&logo=slack&logoColor=white" />
   </p>
 
   <br>
@@ -41,30 +49,19 @@
 
   <h3>🏆 Featured Projects</h3>
   
-  | **Dash Bloquera** | **NV Tracking** |
+  | **Dash Bloquera** | **NV-Tracking** |
   | :---: | :---: |
   | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Dash+Bloquera" width="300" /> | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=NV+Tracking" width="300" /> |
   | Gestión administrativa completa para bloqueras (Personal, Inventario, Ventas). | Sistema de rastreo y tracking logístico desarrollado en Python. |
   | `Django` `Python` `MySQL` | `Python` `Automation` |
   | [🔴 Ver Código](https://github.com/PABM25/dash-bloquera) | [🔵 Ver Código](https://github.com/PABM25/NV-TRACKING) |
-  
-  | **Gestión Reparto** | **Software DeLaCruz** |
-  | :---: | :---: |
-  | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Reparto+App" width="300" /> | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=DeLaCruz+Web" width="300" /> |
-  | Sistema para control de repartos, productos y emisión de comprobantes. | Desarrollo web personalizado utilizando JavaScript moderno. |
-  | `Python` `Logistics` | `JavaScript` `Web` |
-  | [🟢 Ver Código](https://github.com/PABM25/Reparto-Productos-Comprobantes-) | [🟡 Ver Código](https://github.com/PABM25/Software-DeLaCruz) |
 
   <br>
 
   <h3>💻 Languages and Tools</h3>
   <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mysql,firebase,gcp,linux,git,arduino,figma,ps,selenium,nodejs,ionic&perline=9" />
-
-  <br>
-  <br>
   
-  <p align="center" style="font-size: 10px; color: #555;">
-    <i>Diseñando el futuro con código y estrategia 🚀</i>
-  </p>
+  <br><br>
+  <p style="font-size:10px; color: #666;"><i>Engineering Code & Strategies</i></p>
 
 </div>
