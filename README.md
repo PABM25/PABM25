@@ -29,7 +29,7 @@
   <br>
 
   <h3>🚀 Project Management & Methodologies</h3>
-  <p>Combining technical skills with agile strategies for efficient solutions.</p>
+  <p>Combining technical skills with agile strategies.</p>
   
   <p>
     <img src="https://img.shields.io/badge/Methodology-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white" />
@@ -49,18 +49,43 @@
 
   <h3>🏆 Featured Projects</h3>
   
-  | **Dash Bloquera** | **NV-Tracking** |
+  | **Dash Bloquera** | **Gestión Reparto & Logística** |
   | :---: | :---: |
-  | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Dash+Bloquera" width="300" /> | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=NV+Tracking" width="300" /> |
-  | Gestión administrativa completa para bloqueras (Personal, Inventario, Ventas). | Sistema de rastreo y tracking logístico desarrollado en Python. |
+  | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Dash+Bloquera" width="300" /> | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Gestion+Reparto" width="300" /> |
+  | Gestión administrativa completa para bloqueras, inventario y ventas. | Sistema automatizado para control de repartos y emisión de comprobantes. |
   | `Django` `Python` `MySQL` | `Python` `Automation` |
-  | [🔴 Ver Código](https://github.com/PABM25/dash-bloquera) | [🔵 Ver Código](https://github.com/PABM25/NV-TRACKING) |
+  | [🔴 Ver Código](https://github.com/PABM25/dash-bloquera) | [🟢 Ver Código](https://github.com/PABM25/Reparto-Productos-Comprobantes-) |
+
+  | **Software DeLaCruz** |
+  | :---: |
+  | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Software+DeLaCruz" width="300" /> |
+  | Solución Web corporativa a medida con enfoque en experiencia de usuario. |
+  | `JavaScript` `Web Dev` |
+  | [🟡 Ver Código](https://github.com/PABM25/Software-DeLaCruz) |
 
   <br>
 
-  <h3>💻 Languages and Tools</h3>
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,bootstrap,mysql,firebase,gcp,git,arduino,figma,nodejs,flutter,dart&perline=9" />
-  
+  <h3>💻 Tech Stack & Tools</h3>
+
+  <img src="https://img.shields.io/badge/Frontend-Development-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,ionic,flutter" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Backend-Architecture-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Database_%26_Cloud-Infrastructure-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,gcp" />
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Tools_Design_%26_Hardware-Solutions-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,linux,selenium,arduino,figma,ps" />
+
   <br><br>
   <p style="font-size:10px; color: #666;"><i>Engineering Code & Strategies</i></p>
 
