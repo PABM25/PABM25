@@ -22,8 +22,8 @@
   <p>Modern Web & Mobile Development • Arduino Integration • 3D Printing</p>
 
   <p>
-   🔭 Working on <b>Administrative software for construction businesses</b><br>
-   🎨 Learning <b>3D printing for tech and design solutions</b>
+    🔭 Working on <b>Dash Bloquera v2 (Cross-platform Ecosystem)</b><br>
+    🎨 Learning <b>3D printing for tech and design solutions</b>
   </p>
 
   <br>
@@ -49,27 +49,103 @@
 
   <h3>🏆 Featured Projects</h3>
   
-  | **Dash Bloquera** | **Gestión Reparto & Logística** |
-  | :---: | :---: |
-  | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Dash+Bloquera" width="300" /> | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Gestion+Reparto" width="300" /> |
-  | Gestión administrativa completa para bloqueras, inventario y ventas. | Sistema automatizado para control de repartos y emisión de comprobantes. |
-  | `Django` `Python` `MySQL` | `Python` `Automation` |
-  | [🔴 Ver Código](https://github.com/PABM25/dash-bloquera) | [🟢 Ver Código](https://github.com/PABM25/Reparto-Productos-Comprobantes-) |
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Dash Bloquera v2 (App)</strong>
+      </td>
+      <td align="center" width="50%">
+        <strong>Dash Bloquera v1 (Web)</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://via.placeholder.com/300x150/36BCF7/FFFFFF?text=Dash+Bloquera+v2" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Dash+Bloquera+v1" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Ecosistema móvil para gestión de obra y ventas.<br>
+        Integra impresión térmica, gráficos y Firebase.
+      </td>
+      <td align="center">
+        Gestión administrativa robusta para inventario.<br>
+        Versión web clásica monolítica.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <code>Flutter</code> <code>Dart</code> <code>Firebase</code>
+      </td>
+      <td align="center">
+        <code>Django</code> <code>Python</code> <code>MySQL</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/PABM25/dash_bloquera">📱 Ver Código</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/PABM25/dash-bloquera">🔴 Ver Código</a>
+      </td>
+    </tr>
+  </table>
 
-  | **Software DeLaCruz** |
-  | :---: |
-  | <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Software+DeLaCruz" width="300" /> |
-  | Solución Web corporativa a medida con enfoque en experiencia de usuario. |
-  | `JavaScript` `Web Dev` |
-  | [🟡 Ver Código](https://github.com/PABM25/Software-DeLaCruz) |
+  <br>
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <strong>Gestión Reparto & Logística</strong>
+      </td>
+      <td align="center" width="50%">
+        <strong>Software DeLaCruz</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Gestion+Reparto" width="100%" />
+      </td>
+      <td align="center">
+        <img src="https://via.placeholder.com/300x150/101626/FFFFFF?text=Software+DeLaCruz" width="100%" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        Sistema automatizado para control de repartos<br>y emisión de comprobantes.
+      </td>
+      <td align="center">
+        Solución Web corporativa a medida con<br>enfoque en experiencia de usuario.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <code>Python</code> <code>Automation</code>
+      </td>
+      <td align="center">
+        <code>JavaScript</code> <code>Web Dev</code>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/PABM25/Reparto-Productos-Comprobantes-">🟢 Ver Código</a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/PABM25/Software-DeLaCruz">🟡 Ver Código</a>
+      </td>
+    </tr>
+  </table>
 
   <br>
 
   <h3>💻 Tech Stack & Tools</h3>
 
-  <img src="https://img.shields.io/badge/Frontend-Development-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Frontend_&_Mobile-Development-61DAFB?style=flat-square&logo=flutter&logoColor=white" />
   <br>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,flutter,ionic" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,bootstrap,ionic" />
   <br><br>
 
   <img src="https://img.shields.io/badge/Backend-Architecture-3776AB?style=flat-square&logo=python&logoColor=white" />
