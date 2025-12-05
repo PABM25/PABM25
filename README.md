@@ -40,10 +40,11 @@
 
   <br>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=PABM25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABM25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
-  </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PABM25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABM25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages" />
+</div>
 
   <br>
 
