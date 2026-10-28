@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Pilar+Bonnault;Full+Stack+Developer;Project+Management+Specialist;Arduino+%26+Electronics+Fan" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=480&lines=Hola,+soy+Pilar+Bonnault;Desarrolladora+Full+Stack;Web,+m%C3%B3vil+y+hardware;Software+a+medida+para+PYMEs" alt="Hola, soy Pilar Bonnault — Desarrolladora Full Stack" />
   </a>
 
   <p>
@@ -9,58 +9,55 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://bemaker.cl" target="_blank">
-      <img src="https://img.shields.io/badge/Website-bemaker.cl-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/Web-bemaker.cl-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="bemaker.cl" />
     </a>
     <a href="mailto:hola@bemaker.cl">
-      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-hola@bemaker.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
 
 </div>
 
----
-
-### 🌱 Sobre Mí
-
-- 🔭 **Actualidad:** Trabajando en **Dash Bloquera v2 (Ecosistema Multiplataforma)**.
-- 🚀 **Desarrollo:** Especializándome en **Desarrollo Moderno Web & Móvil**.
-- 🎨 **Intereses:** Aprendiendo **Impresión 3D** e integrando **Arduino** para crear soluciones innovadoras de hardware y software.
-- 📈 **Gestión:** Combinando mis habilidades técnicas con **Estrategias Ágiles** y liderazgo de proyectos para entregar productos de alta calidad.
+Ingeniera en Informática (DuocUC) y desarrolladora full stack. Con **[BeMaker](https://bemaker.cl)** construyo software a medida para PYMEs: apps de gestión, control de asistencia y trazabilidad de activos, desde la base de datos hasta la app móvil. Me gusta cuando el software toca el mundo físico: lectores RFID, Arduino e impresión 3D.
 
 ---
 
-### 💻 Stack Tecnológico
+### 🏆 Proyectos destacados
 
-| Área | Tecnologías |
+| 🏷️ [Trazabilidad de activos](https://github.com/PABM25/Trazabilidad) | 📱 [Dash Bloquera](https://github.com/PABM25/dash_bloquera) |
 | :--- | :--- |
-| **Frontend & Móvil** | <img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css,bootstrap,ionic" height="32" alt="Frontend and Mobile" /> |
-| **Backend & Arquitectura** | <img src="https://skillicons.dev/icons?i=python,django,nodejs" height="32" alt="Backend" /> |
-| **Bases de Datos & Cloud** | <img src="https://skillicons.dev/icons?i=mysql,firebase,gcp" height="32" alt="Database and Cloud" /> |
-| **Herramientas & Hardware** | <img src="https://skillicons.dev/icons?i=git,linux,selenium,arduino,figma,ps" height="32" alt="Tools" /> |
-| **Metodologías & Gestión** | ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white) ![AGILE](https://img.shields.io/badge/-AGILE-green?style=flat-square&logo=jirasoftware&logoColor=white) ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira&logoColor=white) ![NOTION](https://img.shields.io/badge/-NOTION-000000?style=flat-square&logo=notion&logoColor=white) |
-
----
-
-### 🏆 Proyectos Destacados
-
-| 📱 [Dash Bloquera v2 (App)](https://github.com/PABM25/dash_bloquera) | 🔴 [Dash Bloquera v1 (Web)](https://github.com/PABM25/dash-bloquera) |
-| :--- | :--- |
-| **Ecosistema móvil** para gestión de obra y ventas. Integra impresión térmica, gráficos dinámicos y Firebase. | **Gestión administrativa** robusta para inventario. Versión web clásica monolítica. |
-| `Flutter` `Dart` `Firebase` | `Django` `Python` `MySQL` |
+| App web **multiempresa** para seguir el ciclo de vida de activos con RFID, código de barras o QR. Cada empresa tiene sus datos aislados con Row Level Security, y el esquema se prueba en CI. | **ERP móvil** para una fábrica de bloques: inventario con kardex, ventas, presupuestos, finanzas y producción por trabajador. Funciona sin conexión y las reglas de Firestore validan cada operación. |
+| `React` `Supabase` `PostgreSQL` `RLS` `GitHub Actions` | `Flutter` `Dart` `Firebase` `Offline-first` |
 
 <br>
 
-| 🟢 [Gestión de Reparto & Logística](https://github.com/PABM25/Reparto-Productos-Comprobantes-) | 🟡 [Software DeLaCruz](https://github.com/PABM25/Software-DeLaCruz) |
+| ⏱️ Pulso — control de asistencia *(código privado)* | 🧺 [Software DeLaCruz](https://github.com/PABM25/Software-DeLaCruz-main) |
 | :--- | :--- |
-| **Sistema automatizado** para el control de repartos y emisión de comprobantes. | **Solución Web corporativa** a medida con un fuerte enfoque en la experiencia de usuario. |
-| `Python` `Automatización` | `JavaScript` `Desarrollo Web` |
+| Panel para fichajes con PIN en kiosco, turnos, detección de atrasos y exportación de horas. Postgres con RLS, tareas programadas y pruebas de la base de datos. | Trazabilidad de pecheras industriales para una lavandería: registro por RFID, ciclos de lavado, distribución por planta y reportes en Excel y PDF. |
+| `React` `Supabase` `Tailwind` `shadcn/ui` | `React` `Node.js` `Express` `MySQL` |
+
+<br>
+
+| 🚚 [Reparto y comprobantes](https://github.com/PABM25/Reparto-Productos-Comprobantes-) | 🌐 [BeMaker](https://github.com/PABM25/BeMaker-landing) |
+| :--- | :--- |
+| Gestión de repartos a domicilio para una tienda: registro de ventas, entregas y comprobantes. | Sitio de mi marca: servicios, portafolio y formulario de contacto. |
+| `Python` `Django` | `React` `Vite` `Tailwind` |
+
+---
+
+### 💻 Stack
+
+| Área | Tecnologías |
+| :--- | :--- |
+| **Frontend y móvil** | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,js,flutter,dart,html,css,bootstrap,ionic" height="32" alt="React, Next.js, Vite, Tailwind, JavaScript, Flutter, Dart, HTML, CSS, Bootstrap, Ionic" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,python,django" height="32" alt="Node.js, Express, Python, Django" /> |
+| **Datos y nube** | <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase,gcp" height="32" alt="Supabase, PostgreSQL, MySQL, Firebase, Google Cloud" /> |
+| **Herramientas y hardware** | <img src="https://skillicons.dev/icons?i=git,githubactions,linux,selenium,arduino,raspberrypi,figma,ps" height="32" alt="Git, GitHub Actions, Linux, Selenium, Arduino, Raspberry Pi, Figma, Photoshop" /> |
+| **Gestión** | ![Scrum](https://img.shields.io/badge/-Scrum-blue?style=flat-square&logo=scrumalliance&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-green?style=flat-square&logo=jirasoftware&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=notion&logoColor=white) |
 
 ---
 
 <div align="center">
-  <h3>📊 Estadísticas de GitHub</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=PABM25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABM25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-  <br><br>
-  <p style="font-size:12px; color: #888;"><i>Engineering Code & Strategies</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=PABM25&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PABM25&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="Lenguajes más usados" />
 </div>
